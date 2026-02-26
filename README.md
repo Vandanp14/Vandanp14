@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://vandanpatel.me/](https://vandanpatel.me/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1XZIbed6pfAnyLFdAvmiSdF7pIH8kbQ9J/view?usp=sharing](https://drive.google.com/file/d/1XZIbed6pfAnyLFdAvmiSdF7pIH8kbQ9J/view?usp=sharing)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1XZIbed6pfAnyLFdAvmiSdF7pIH8kbQ9J/view?usp=sharing](https://drive.google.com/file/d/1XZIbed6pfAnyLFdAvmiSdF7pIH8kbQ9J/view?usp=sharing)(Resume)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
