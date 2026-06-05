@@ -3,7 +3,7 @@
 ### A passionate Python developer
 
 - 👨‍💻 All of my projects are available at **[https://vandanpatel.me/](https://vandanpatel.me/)**
-
+**OR** [cs.oswego.edu/~vpatel4/portfolio/](cs.oswego.edu/~vpatel4/portfolio)
 - 📄 Know about my experiences: **[Resume](https://drive.google.com/open?id=1XZIbed6pfAnyLFdAvmiSdF7pIH8kbQ9J)**
 
 <h3 align="left">Connect with me:</h3>
